@@ -1,4 +1,4 @@
-module github.com/awslabs/aws-go-multi-module-repository-tools
+module github.com/Madrigal/aws-go-multi-module-repository-tools
 
 go 1.17
 
